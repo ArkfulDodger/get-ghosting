@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Victim
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Victims
+  - PhysicalBarrier
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 3818298373
+    locked: 0
+  - name: Icons
+    uniqueID: 1185718727
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Victims
+    uniqueID: 2071433779
+    locked: 0
+  - name: Player
+    uniqueID: 3923556631
+    locked: 0
